@@ -1,0 +1,17 @@
+# Core Web Framework
+Flask==3.0.0
+python-dotenv==1.0.0
+
+# Discord Bot
+discord.py==2.3.2
+
+# HTTP Requests (for webhooks if needed)
+requests==2.31.0
+
+# apis restful apis
+
+# crud operations
+
+
+# Scheduling (the "every 2 weeks" part)
+APScheduler==3.10.4

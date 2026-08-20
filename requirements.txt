@@ -4,6 +4,7 @@ python-dotenv==1.0.0
 
 # Discord Bot
 discord.py==2.3.2
+audioop-lts
 
 # HTTP Requests (for webhooks if needed)
 requests==2.31.0

@@ -27,7 +27,7 @@ put a `.env` file in the root with your keys, put videos in `videos/`, then run 
 ## structure
 
 ```
-app/serives/    business logic
+app/services/   business logic
 requirements.txt
 ```
 

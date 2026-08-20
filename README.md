@@ -4,12 +4,13 @@ the intended software is to be free to use to help users own a bot that posts no
 
 # tech stack
 
+```
 Python - programming langugage
 FastAPI - backend framework
 Discord.py - discord client
 Nvidia API - optional API for clip captioning
 AWS - cloud provider to store clips 
-
+```
 
 ## setup
 

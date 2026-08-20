@@ -28,7 +28,7 @@ def caption(video_path):
     }
 
     headers = {
-        "Authorization": f"Bearer {os.getenv('NVIDIA_API_KEY')}",
+        "Authorization": f"Bearer {os.getenv('YOUR NVIDIA API KEY')}",
         "Content-Type": "application/json",
     }
 

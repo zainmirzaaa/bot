@@ -9,8 +9,8 @@ from services.videoService import get_random_video, mark_as_sent
 
 load_dotenv()
 
-VIDEO_FOLDER = "videos"
-SENT_FOLDER = "videos/sent"
+VIDEO_FOLDER = "YOUR VIDEOS FOLDER"
+SENT_FOLDER = "YOUR SENT FOLDER"
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -34,4 +34,4 @@ async def post(ctx):
     mark_as_sent(video, SENT_FOLDER)
 
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("YOUR DISCORD TOKEN"))
